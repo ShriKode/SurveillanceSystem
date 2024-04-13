@@ -9,7 +9,7 @@ A surveillance system ...
 ...
 
 # Parts List
-- mbed lpc1768: https://os.mbed.com/platforms/mbed-LPC1768/
+- mbed lpc1768: https://os.mbed.com/platforms/mbed-LPC1768/ <br />
  ![](https://os.mbed.com/media/cache/platforms/LPC1768.jpg.250x250_q85.jpg)
 - Raspberry Pi 3: https://www.raspberrypi.com/products/raspberry-pi-3-model-b/
 - Raspberry Pi Camera Module 2: https://www.raspberrypi.com/products/camera-module-v2/
