@@ -9,7 +9,14 @@ A surveillance system ...
 ...
 
 # Parts List
-...
+- mbed lpc1768: https://os.mbed.com/platforms/mbed-LPC1768/
+- Raspberry Pi 3: https://www.raspberrypi.com/products/raspberry-pi-3-model-b/
+- Raspberry Pi Camera Module 2: https://www.raspberrypi.com/products/camera-module-v2/
+- MPR121 I2C Capacitive Touch Sensor: https://os.mbed.com/users/4180_1/notebook/mpr121-i2c-capacitive-touch-sensor/
+- Speaker with BJT Driver: https://os.mbed.com/users/4180_1/notebook/using-a-speaker-for-audio-output/
+- Pushbuttons x 3: https://os.mbed.com/users/4180_1/notebook/pushbuttons/
+- LIDAR TOF Distance Sensor: https://www.adafruit.com/product/3317
+ 
 
 # Setup
 ...
