@@ -10,6 +10,7 @@ A surveillance system ...
 
 # Parts List
 - mbed lpc1768: https://os.mbed.com/platforms/mbed-LPC1768/
+ ![alt text](https://os.mbed.com/media/cache/platforms/LPC1768.jpg.250x250_q85.jpg)
 - Raspberry Pi 3: https://www.raspberrypi.com/products/raspberry-pi-3-model-b/
 - Raspberry Pi Camera Module 2: https://www.raspberrypi.com/products/camera-module-v2/
 - MPR121 I2C Capacitive Touch Sensor: https://os.mbed.com/users/4180_1/notebook/mpr121-i2c-capacitive-touch-sensor/
