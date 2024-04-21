@@ -44,11 +44,18 @@ A security camera system that will use a Raspberry Pi (Zero W or 3) and an mbed 
  
 
 # Setup
-...
+### Mbed and Components
+
+### Raspberry Pi
+- Setup Camera
+- Installations
+   - Install dlib, cv2, and face_recognition libraries with pip.
+   - pip install dlib
+   - pip install cv2
+   - pip install face_recognition
 
 
 # Instructions
-
 
 
 # Demo Video
