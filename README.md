@@ -13,7 +13,7 @@ Project Members: Nihit Agarwal, Shriyanshu Kode, Nidhish Shanmugasundaram, Mark 
 
 
 # Overview
-A security camera system that will use a Raspberry Pi (Zero W or 3) and an mbed to send video data to an online server when an object is within a certain distance of the system. A speaker will also sound an alarm when this occurs. We will use the lidar or sonar sensor to determine the proximity of the object/person to the system. We will utilize LCD display as a GUI to deliver the security access result to the user (Access Granted or Denied) and possibly other information as well. Finally, we will use a capacitive sensor that when a specific code is entered, the system will be overridden to reset.
+A security camera system that will use a Raspberry Pi 3 and an mbed to send video data to an online server when an object is within a certain distance of the system. A speaker will also sound an alarm when this occurs. We will use the sonar sensor to determine the proximity of the object/person to the system. Finally, we will use a capacitive sensor that when a specific code is entered, the system will be overridden to reset.
 
 
 ## Digrams
