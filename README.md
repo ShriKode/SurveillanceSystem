@@ -3,7 +3,6 @@ ECE 4180 Final Project Spring 2024 <br />
 Project Members: Nihit Agarwal, Shriyanshu Kode, Nidhish Shanmugasundaram, Mark Jang
 
 
-
 # Table of Contents
 - [Overview](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
 - [Digrams](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
@@ -19,7 +18,9 @@ A security camera system that will use a Raspberry Pi (Zero W or 3) and an mbed 
 
 ## Digrams
 ### Schematic Diagram
- [schematic image]
+ 
+[Schematic_ece4180_2024-04-30.pdf](https://github.com/ShriKode/SurveillanceSystem/files/15171839/Schematic_ece4180_2024-04-30.pdf)
+
 ### State Diagram
   [state diagram]
 
