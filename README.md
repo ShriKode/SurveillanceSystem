@@ -19,7 +19,7 @@ A security camera system that will use a Raspberry Pi 3 and an mbed to send vide
 ## Digrams
 ### Schematic Diagram
 ![](https://github.com/ShriKode/SurveillanceSystem/blob/main/images/Schematic_ece4180_2024-04-30.svg)
-### State Diagram
+### Block Diagram
 ![](https://github.com/ShriKode/SurveillanceSystem/blob/main/images/1.jpeg)
 
 
