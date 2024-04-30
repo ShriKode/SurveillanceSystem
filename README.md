@@ -55,6 +55,7 @@ A security camera system that will use a Raspberry Pi 3 and an mbed to send vide
 
 
 # Instructions
+## How to start the project on Keil Studio
 
 
 # Demo Video
