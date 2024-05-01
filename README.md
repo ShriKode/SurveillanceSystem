@@ -44,9 +44,18 @@ A security camera system that will use a Raspberry Pi 3 and an mbed to send vide
 
 # Setup
 ### Mbed and Components
+- Setup all the components as shown in the schematic.
 
 ### Raspberry Pi
+- OS Setup
+   - Install 64-bit Legacy Bullseye Linux OS on Raspberry Pi-3 . <a href = "https://projects.raspberrypi.org/en/projects/noobs-install">Click here for information.</a>
 - Setup Camera
+   -  Attach the piCamera to the Raspberry Pi 3. <a href="https://www.dexterindustries.com/howto/installing-the-raspberry-pi-camera/">Click here for instructions.</a>
+   - Run the following command to access configuration of pi
+   ```console
+   sudo raspi-config
+   ```
+   - Navigate to the I2C section and enable it.
 - Installations
    - Install dlib, cv2, and face_recognition libraries with pip.
    - pip install dlib
@@ -63,6 +72,25 @@ A security camera system that will use a Raspberry Pi 3 and an mbed to send vide
 3. Drag and drop the file 
 ![](https://github.com/ShriKode/SurveillanceSystem/blob/main/images/keil2.jpeg)
 
+## Writing software to run on the Pi
+
+1. Start the Raspberry Pi 3. Create two python scripts with the code provided in the files face_recog.py and stream_server.py.
+2. Upload an image of the person the system needs to recognize as a verified user to the Raspberry Pi  using the file transfer feature iin VNC viewer.
+3. Follow the example code given in image_processing.py to process the image and store its encoding as pickled file.
+4. Make changes to stream_server.py to load the pickled data containing encodings of the verified person's image.
+5. A shortcut can be created on the iPhone to run the shell script on the pi. Go to the shortcuts app on iPhone and create a new shortcut. Inside it add an action of "Run script over SSH". Fill in the details of the pi's host, user and password. Type in the following in teh script region:
+
+```console
+cd Desktop
+python3 stream_server.py
+```
+6. The code on the pi can be run remotely if it is switched on and the iPhone and the pi are on the same local network. Alternatively, a global IP can be obtained for the pi to have remote global access.
+
+## Running the system
+1. Once the Mbed and the pi are connected via USB serial, and the pi is run using the shortcut, the video streaming web page can be accessed. Go to the webpage \<IP address of pi>:8000 and you should be able to see the video feed.
+2. Watch the demo video below for a more detailed undestanding of what the surveillance system is capable of doing.
+
 # Demo Video
 
-![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DDzpSAghQFE/0.jpg)
+[![Youtube Video for Demo](https://img.youtube.com/vi/DDzpSAghQFE/0.jpg)](https://www.youtube.com/watch?v=DDzpSAghQFE)
+
