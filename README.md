@@ -4,10 +4,10 @@ Project Members: Nihit Agarwal, Shriyanshu Kode, Nidhish Shanmugasundaram, Mark 
 
 
 # Table of Contents
-- [Overview](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
-- [Digrams](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
+- [Overview](https://github.com/ShriKode/SurveillanceSystem/blob/main/README.md#overview)
+- [Digrams](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#diagrams)
 
-- [Parts List](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
+- [Parts List](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#partslist)
 - [Instructions](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
 - [Demo Video](https://github.com/markjang03/ECE4180_finalP.github.io/blob/main/README.md#overview)
 
