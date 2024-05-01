@@ -59,11 +59,11 @@ A security camera system that will use a Raspberry Pi 3 and an mbed to send vide
 - Installations
    - Install dlib, cv2, and face_recognition libraries with pip.
      
-'''
+```
 pip install dlib
 pip install cv2
 pip install face_recognition
-'''
+```
 
   - Face Recognition setup inspired by: https://github.com/rithikachowta08/face-recognition-security
 
