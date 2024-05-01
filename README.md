@@ -65,4 +65,4 @@ A security camera system that will use a Raspberry Pi 3 and an mbed to send vide
 
 # Demo Video
 
-
+![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/DDzpSAghQFE/0.jpg)
