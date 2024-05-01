@@ -56,11 +56,11 @@ A security camera system that will use a Raspberry Pi 3 and an mbed to send vide
 
 # Instructions
 ## How to start the project on Keil Studio
-1. Download the zip file
+1. Download the zip file (make sure to extract them)
 ![](https://github.com/ShriKode/SurveillanceSystem/blob/main/images/keil3.jpeg)
 2. Log into Keil Studio
 ![](https://github.com/ShriKode/SurveillanceSystem/blob/main/images/keil1.jpeg)
-3. Drag and drop the file (make sure to extract them)
+3. Drag and drop the file 
 ![](https://github.com/ShriKode/SurveillanceSystem/blob/main/images/keil2.jpeg)
 
 # Demo Video
