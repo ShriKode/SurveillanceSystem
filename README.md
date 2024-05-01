@@ -38,8 +38,8 @@ A security camera system that will use a Raspberry Pi 3 and an mbed to send vide
 ![](https://cdn.sparkfun.com/assets/parts/2/9/9/00521-1.jpg)
 - Pushbuttons x 3: https://os.mbed.com/users/4180_1/notebook/pushbuttons/ <br />
 ![](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4220/MFG_TS02-Sm-BK-LCR.jpg)
-- LIDAR TOF Distance Sensor: https://www.adafruit.com/product/3317 <br />
-![](https://cdn-shop.adafruit.com/970x728/3317-06.jpg)
+- Ultrasonic Distance Sensor <br />
+![](https://github.com/ShriKode/SurveillanceSystem/blob/main/images/sonar.jpeg)
  
 
 # Setup
